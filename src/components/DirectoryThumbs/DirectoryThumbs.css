@@ -1,0 +1,19 @@
+.directory-thumbs {
+  margin: 1rem auto 2.25rem;
+  max-width: 40rem;
+  padding: 2rem;
+}
+
+.directory-entry {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 7rem;
+}
+
+.directory-entry span {
+  font-size: .75rem;
+  margin-bottom: .5rem;
+  text-align: center;
+}

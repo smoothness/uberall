@@ -1,0 +1,35 @@
+.checkContainer {
+  background-color: #27435c;
+  color: white;
+  padding: 2rem;
+}
+
+.checkContainer {
+  text-align: center;
+}
+
+.checkContainer label,
+.checkContainer input,
+.checkContainer select,
+.checkContainer option {
+  color: white;
+  text-align: left;
+}
+
+.checkContainer input:focus,
+.checkContainer select:focus {
+  border-color: var(--color-secondary);
+}
+
+.checkContainer .form {
+  margin-bottom: 2rem;
+}
+
+.checkContainer .checkBtn {
+  min-width: 8rem;
+  border-color: #239fe6;
+}
+
+.checkContainer p {
+  text-align: center;
+}
